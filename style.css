@@ -1,0 +1,41 @@
+body {
+	margin:0;
+	padding:0;
+	background-image: url(backguerra.jpg);
+	background-attachment: fixed;
+
+}
+
+.diad {
+	
+	background-image:url(guerra1.jpg);
+	height:215px;
+}
+
+
+.col-sm-4 {
+	color:#d6d6c2;
+	
+	
+}
+
+.rodape {
+     filter:alpha(opacity=15);
+     opacity: 0.3;
+     -moz-opacity:0.3;
+     -webkit-opacity:0.3;
+}
+
+.noti20 {
+	filter:alpha(opacity=15);
+     opacity: 0.3;
+     -moz-opacity:0.3;
+     -webkit-opacity:0.3;
+}
+
+#bar-i {
+	color:white;
+}
+
+
+
